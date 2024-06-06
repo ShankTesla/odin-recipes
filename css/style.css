@@ -1,0 +1,13 @@
+.main-heading{
+    color: rgb(235, 79, 8);
+    text-align: center;
+}
+
+.recipes-avail{
+    color:rgb(0, 0, 0);
+    background-color: orange;
+}
+
+body{
+    background-color: rgb(240, 213, 157);
+}
