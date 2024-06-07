@@ -1,9 +1,17 @@
+* {
+    box-sizing: border-box;
+}
 .main-heading{
     text-align: center;
 }
 
 .main-heading, .sub-heading{
-    color: rgb(235, 79, 8);
+    color: #FB8500;
+}
+
+.heading, .main-heading{
+    background-color:black;
+    margin-top: 0px;
 }
 
 .recipes-avail{
@@ -12,7 +20,9 @@
 }
 
 body{
-    background-color: rgb(240, 213, 157);
+    background-color: wheat;
+    margin: 0px;
+    padding: 0px;
 }
 
 a {
@@ -24,6 +34,4 @@ a {
 .recipe-img{
     height: 410px;
     width: 800px;
-}
-
 }
