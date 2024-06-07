@@ -66,3 +66,16 @@ a {
 .recipes-avail-list-style.one, .recipes-avail-list-style.two{
     margin-bottom: 25px;
 }
+
+.logo{
+    height: auto;
+    width: 50px;
+    display: block;
+    margin: 0px auto;
+    
+}
+
+.recipes-list-image{
+    height:auto;
+    width: 100px;
+}
