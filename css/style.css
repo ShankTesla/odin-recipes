@@ -4,78 +4,14 @@
     font-weight: normal;
 }
 
-body{
-    background-color: #272428;
-    margin: 0px;
-    padding: 0px;
+div {
+    border: 2px solid black;
 }
 
-a {
-    text-align: center;
-    text-decoration: none;
-    font-weight: 700;
-}
-
-.main-heading{
+.header{
     text-align: center;
 }
 
-.sub-heading{
-    color: #080807;
-}
-
-.heading, .main-heading{
-    background-color:wheat;
-    margin-top: 0px;
-}
-
-.recipes-list{
-    padding: 20px;
-    border: 10px solid black;
-}
-
-.recipes-list-avail{
-    border: 3px solid black;
-    margin: 0px 250px 0px;
-    color:rgb(0, 0, 0);
-    background-color: rgba(255, 165, 0, 0.38);
-    text-decoration: None;
-    padding: 100px 0;
-    text-align: center;
-    list-style-type: none;
-}
-
-.recipes-list-heading{
-    margin: 0px 250px 0px;
-    text-align: center;
-    border: 5px solid black;
-}
-
-.recipe-img{
-    height: 410px;
-    width: 800px;
-}
-
-.recipes-avail-list-style{
-
-    border: 5px double black;
-    margin: 0px 60px 0px;
-
-}
-
-.recipes-avail-list-style.one, .recipes-avail-list-style.two{
-    margin-bottom: 25px;
-}
-
-.logo{
-    height: auto;
-    width: 50px;
-    display: block;
-    margin: 0px auto;
-    
-}
-
-.recipes-list-image{
-    height:auto;
-    width: 100px;
+.card{
+    margin: 0px 400px 0px;
 }
