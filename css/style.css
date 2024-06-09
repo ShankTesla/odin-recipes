@@ -8,10 +8,37 @@ div {
     border: 2px solid black;
 }
 
+
 .header{
     text-align: center;
 }
 
 .card{
-    margin: 0px 400px 0px;
+    margin: auto;
+    margin-top: 75px;
+    width: 400px;
+}
+
+.recipe-header{
+    text-align: center;
+}
+
+.recipe-list{
+    height: 500px;
+    text-align: center;
+    border: 2px solid red;
+}
+
+.recipe-list-ul{
+    display: inline-block;
+    text-align: left;
+    margin-top: 133px;
+    margin-bottom: 133px;
+    padding: 0px;
+}
+
+
+.recipe-list li{
+    list-style: none;
+    padding: 30px 0px 30px;
 }
