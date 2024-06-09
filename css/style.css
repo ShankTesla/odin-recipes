@@ -9,6 +9,32 @@ div {
 }
 
 
+a{
+    display: block;
+    border: 2px dotted red;
+    height: 42px;
+    width: 166.8px;
+    text-align: center;
+}
+
 .header{
     text-align: center;
+}
+
+.card{
+    width : 40%;
+    margin: 78px auto 0px;
+}
+
+.recipe-header{
+    text-align: center;
+}
+
+.recipe-list{
+    padding: 70px;
+    height: auto;
+}
+
+.recipe-list-one, .recipe-list-two{
+    margin-bottom: 20px;
 }
