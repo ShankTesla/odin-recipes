@@ -18,14 +18,20 @@ a{
     margin:auto;
 }
 
+.body{
+    background-color: #779eca;
+}
+
 .header{
     text-align: center;
+    background-color: #195aa3;
 }
 
 
 .card{
     width : 40%;
     margin: 78px auto 0px;
+    background-color: #c47527;
 }
 
 .recipe-header{
